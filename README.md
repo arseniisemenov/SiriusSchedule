@@ -13,7 +13,16 @@ Create events in Google Calendar form Sirius schedule
 - Click the file_download (Download JSON) button to the right of the client ID.
 - Move this file to your working directory and rename it `client_secret.json`
 
-## Step 2: Settings
+## Step 2: Installation
+
+- **requests**
+- **httplib2**
+- **oauth2client**
+- **google-api-python-client**
+
+`pip install requests httplib2 oauth2client google-api-python-client`
+
+## Step 3: Settings
 
 - Your team number -- `team_id`
 - Turn On/Off reminders -- `reminders`
