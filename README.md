@@ -3,7 +3,7 @@ Create events in Google Calendar form Sirius schedule
 
 ## Step 1: Turn on the Google Calendar API
 
-- Use this wizard to create or select a project in the Google Developers Console and automatically turn on the API.
+- Use [this wizard](https://console.developers.google.com/start/api?id=calendar) to create or select a project in the Google Developers Console and automatically turn on the API.
 - Click Continue, then Go to credentials.
 - On the Add credentials to your project page, click the Cancel button.
 - At the top of the page, select the OAuth consent screen tab. Select an Email address, enter a Product name if not already set, and click the Save button.
